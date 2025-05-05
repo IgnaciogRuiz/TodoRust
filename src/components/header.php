@@ -1,17 +1,17 @@
 <?php
 echo '
-<nav>
-    <div class="logo">
-        <img src="./assets/images/cropped-rust-logo.png" alt="logo">
-    </div>
+<div class="ncontainer">
     <div class="navbar">
-        <ul>
-            <li>Inicio</li>
-            <li>Guias</li>
-            <li>Bases</li>
-            <li>Sobre Nosotros</li>
-            <li>Mi Cuenta</li>
-        </ul>
+        <a href="#"><img src="./assets/images/cropped-rust-logo.png" alt="logo"></a>
+        <nav>
+            <ul>
+                <li>Inicio</li>
+                <li>Guias</li>
+                <li>Bases</li>
+                <li>Sobre Nosotros</li>
+                <li>Mi Cuenta</li>
+            </ul>
+        </nav>
     </div>
-</nav>
+</div>
 ';
