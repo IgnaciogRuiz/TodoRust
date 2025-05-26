@@ -5,11 +5,10 @@ echo '
         <a href="#"><img src="./assets/images/cropped-rust-logo.png" alt="logo"></a>
         <nav>
             <ul>
-                <li>Inicio</li>
-                <li>Guias</li>
-                <li>Bases</li>
-                <li>Sobre Nosotros</li>
-                <li>Mi Cuenta</li>
+                <li><a href="">Inicio</a></li>
+                <li><a href="/src/pages/guias.html">Guias</a></li>
+                <li><a href="/src/pages/bases.html">Bases</a></li>
+                <li><a href="/src/pages/miCuenta.html">Mi Cuenta</a></li>
             </ul>
         </nav>
     </div>
